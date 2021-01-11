@@ -30,9 +30,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'biogen.png',
     title: 'Biogen',
-    info: 'A digital version of a board game that simulates the creation of life ',
+    info: 'A mobile version of a board game that simulates the creation of life ',
     info2: 'Ongoing project to improve learning in React Native - focusing on use of component extraction, props and hooks for state whilst avoiding the use of external any libraries.',
-    url: '',
+    url: 'https://expo.io/@pennywise/projects/biogen',
     repo: 'https://github.com/TheDancingClown/biogen', // if no repo, the button will not show up
   },
   {
