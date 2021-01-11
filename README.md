@@ -222,8 +222,8 @@ Go to `src/styles/abstracts/_variables.scss` and only change the values on this 
 
 ```scss
 // Default values
-$main-color: #02aab0;
-$secondary-color: #00cdac;
+$main-color: #b05f02;
+$secondary-color: #b05f02;
 ```
 
 **_Note_**: I highly recommend to checkout gradients variations on [UI Gradient](https://uigradients.com/#BrightVault)
