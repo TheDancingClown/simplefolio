@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'SwiftCalc',
     info: 'A React Native app to calculate either take home pay from an annual salary entered, or salary needed to achieve a monthly takehome. It calculates income tax and class 1 NI deductions for the 2019/20 and 2020/21 tax years.',
     info2: 'Built over 3 days to show quick learning in a completely new tech stack and programming language',
-    url: '',
+    url: 'https://thedancingclown.github.io/swiftcalc',
     repo: 'https://github.com/TheDancingClown/swiftcalc', // if no repo, the button will not show up
   },
   {
@@ -50,7 +50,6 @@ export const projectsData = [
     title: 'Signposts',
     info: 'Week 11 & 12 of Makers Academy. Final team project for graduation presentation day.',
     info2: 'Learning Swift and ARKit to produce an iOS mobile app for exploration and message sharing via augmented reality',
-    url: '',
     repo: 'https://github.com/TheDancingClown/Signposts', // if no repo, the button will not show up
   },
   {
@@ -59,7 +58,6 @@ export const projectsData = [
     title: 'Picaddo',
     info: 'A weekend challenge to rebuild Instagram',
     info2: 'Using rspec and factoryBot for TDD, learning Haml for an HTML alternative and learning Active Storage',
-    url: '',
     repo: 'https://github.com/TheDancingClown/Pablo-Picaddo', // if no repo, the button will not show up
   },
   {
@@ -68,7 +66,6 @@ export const projectsData = [
     title: 'FacemaskBook',
     info: 'Week 8 & 9 of Makers Academy. A team project learning a new framework',
     info2: 'A social media web app clone to learn Ruby on Rails',
-    url: '',
     repo: 'https://github.com/TheDancingClown/Croc-My-World', // if no repo, the button will not show up
   }
 ];
