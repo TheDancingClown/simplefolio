@@ -26,6 +26,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+   {
+    id: nanoid(),
+    img: 'US_capitals.png',
+    title: 'State Capitals',
+    info: 'An exercise in learning typescript',
+    info2: 'A interactive map using react-simple-maps and a public read-only Back4Apps database.',
+    url: 'https://lucid-clarke-4db2b1.netlify.app/',
+    repo: 'https://github.com/TheDancingClown/typescript_US_capitals', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'biogen.png',
@@ -34,6 +43,15 @@ export const projectsData = [
     info2: 'Ongoing project to improve learning in React Native - focusing on use of component extraction, props and hooks for state whilst avoiding the use of external any libraries.',
     url: 'https://expo.io/@pennywise/projects/biogen',
     repo: 'https://github.com/TheDancingClown/biogen', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'ingredients.png',
+    title: 'Shopping List',
+    info: 'An exercise to learn Redux Toolkit',
+    info2: 'A React Native app that narrows down a list of recipes by ingredient, allows the user to add meals to a shopping list and produce a grocery list of combined items',
+    url: 'https://expo.io/@pennywise/projects/ingredients',
+    repo: 'https://github.com/TheDancingClown/shoppinglist', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
